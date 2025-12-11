@@ -1,0 +1,21 @@
+[package]
+name = "rust-redis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.35", features = ["full"] }
+bytes = "1.5"
+thiserror = "1.0"
+
+[lib]
+name = "redis_lib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "redis-server"
+path = "src/main.rs"
+
+[[bin]]
+name = "redis-client"
+path = "src/client.rs"

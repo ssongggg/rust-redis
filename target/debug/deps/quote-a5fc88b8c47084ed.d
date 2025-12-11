@@ -1,0 +1,13 @@
+D:\cursor_code\rust-redis\target\debug\deps\quote-a5fc88b8c47084ed.d: C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\lib.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ext.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\format.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ident_fragment.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\to_tokens.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\runtime.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\spanned.rs
+
+D:\cursor_code\rust-redis\target\debug\deps\libquote-a5fc88b8c47084ed.rlib: C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\lib.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ext.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\format.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ident_fragment.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\to_tokens.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\runtime.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\spanned.rs
+
+D:\cursor_code\rust-redis\target\debug\deps\libquote-a5fc88b8c47084ed.rmeta: C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\lib.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ext.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\format.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ident_fragment.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\to_tokens.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\runtime.rs C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\spanned.rs
+
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\lib.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ext.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\format.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\ident_fragment.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\to_tokens.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\runtime.rs:
+C:\Users\谌松\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\quote-1.0.42\src\spanned.rs:
